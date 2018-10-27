@@ -1,0 +1,46 @@
+/* .input-field input[type=text]:focus + label {
+    color: #ab47bc !important;
+}
+
+.input-field input[type=text]:focus {
+    border-bottom: 1px solid #ab47bc !important;
+    box-shadow: 0 1px 0 0 #ab47bc !important;
+} */
+
+.side {
+    background: #f4f4f4;
+    border-radius: 5px; 
+}
+
+h4.center {
+    color: teal;
+    margin-top: 1.6rem;
+}
+
+.well {
+    background: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.contents {
+    padding: 20px;
+}
+
+.foot {
+    background: teal;
+    color: white;
+    border-radius: 10px;
+    
+}
+
+.foot a {
+    color: #4db6ac;
+}
+
+/* @media screen and (max-width: 500px) {
+    .container.contents {
+        margin:0 !important;
+    }
+} */
